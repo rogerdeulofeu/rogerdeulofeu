@@ -1,6 +1,6 @@
 # 💻 Welcome to My GitHub Profile! 👋
 
-Hi there! I'm [Roger Deulofeu](https://github.com/rogerdeulofeu), a passionate **[Software Developer]** always eager to learn and create exciting projects. 🚀  
+Hi there! I'm [Roger Deulofeu](https://github.com/rogerdeulofeu), a passionate **Software Developer** always eager to learn and create exciting projects. 🚀  
 
 
 ## 🤝 Let's Connect!
